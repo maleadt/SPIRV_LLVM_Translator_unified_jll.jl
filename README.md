@@ -14,7 +14,7 @@ The tarballs for `SPIRV_LLVM_Translator_unified_jll.jl` have been built from the
 
 `SPIRV_LLVM_Translator_unified_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm=13}` (`x86_64-linux-gnu-cxx11-llvm+13`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm=13.asserts}` (`x86_64-linux-gnu-cxx11-llvm+13.asserts`)
 
 ## Products
 
