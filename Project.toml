@@ -1,0 +1,14 @@
+name = "SPIRV_LLVM_Translator_unified_jll"
+uuid = "85f0d8ed-5b39-5caa-b1ae-7472de402361"
+version = "0.1.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.4.0"
+julia = "1.0"
