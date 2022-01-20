@@ -8,13 +8,13 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `SPIRV_LLVM_Translator_unified_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/maleadt/SPIRV-LLVM-Translator.git (revision: `776d9041e3baf120222e88842a9d441218a3f791`)
+* git repository: https://github.com/maleadt/SPIRV-LLVM-Translator.git (revision: `3ed66fc7524d648dec5a71c5e09985d5aff5bd99`)
 
 ## Platforms
 
 `SPIRV_LLVM_Translator_unified_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm=13.asserts}` (`x86_64-linux-gnu-cxx11-llvm+13.asserts`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm=12}` (`x86_64-linux-gnu-cxx11-llvm+12`)
 
 ## Products
 
