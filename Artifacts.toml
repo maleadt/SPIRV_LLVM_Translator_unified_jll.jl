@@ -12,11 +12,11 @@ os = "linux"
 [[SPIRV_LLVM_Translator_unified]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50f2615a429cb96c5a403f20ae4445658874feea"
+git-tree-sha1 = "947b404beeeb8772c4b9070eb4af8e1ad0f89648"
 libc = "glibc"
 llvm = "13"
 os = "linux"
 
     [[SPIRV_LLVM_Translator_unified.download]]
-    sha256 = "788c96501f31038678fc27ed42ff884d2ca4161fd769f99b59a7c04d453e4dae"
+    sha256 = "73d102a68f2e5b15d78dfe8c221709a6c96f9c1707db4d1eb6a8860d82734028"
     url = "https://github.com/maleadt/SPIRV_LLVM_Translator_unified_jll.jl/releases/download/SPIRV_LLVM_Translator_unified-v0.1.0+0/SPIRV_LLVM_Translator_unified.v0.1.0.x86_64-linux-gnu-cxx11-llvm+13.tar.gz"
