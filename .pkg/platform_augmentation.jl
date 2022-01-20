@@ -1,6 +1,6 @@
 using Base.BinaryPlatforms
 function augment_platform!(platform)
-    llvm_version = Base.libllvm_version.major
+    llvm_version = Base.libllvm_version
 
     # does our LLVM build use assertions?
     llvm_assertions = try
